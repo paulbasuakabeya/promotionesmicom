@@ -1,0 +1,91 @@
+.home-page {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ height: 100vh;
+ position: relative;
+}
+
+.border-animated {
+ width: 80%;
+ height: 80%;
+ position: absolute;
+ border: 5px solid #aad845;
+ border-radius: 50%;
+ animation: rotate 5s linear infinite;
+}
+
+@keyframes rotate {
+ from {
+   transform: rotate(0deg);
+ }
+ to {
+   transform: rotate(360deg);
+ }
+}
+
+.search-bar {
+ position: relative;
+ z-index: 2;
+}
+
+.search-bar input {
+ width: 300px;
+ padding: 10px;
+ margin-bottom: 10px;
+}
+
+.search-bar ul {
+ list-style: none;
+ padding: 0;
+}
+
+.search-bar li {
+ cursor: pointer;
+ padding: 5px;
+}
+
+.search-bar li:hover {
+ background-color: #f0f0f0;
+}
+
+.student-details {
+ position: relative;
+ z-index: 2;
+ text-align: center;
+}
+
+.student-details img {
+ max-width: 300px;
+ height: auto;
+}
+
+/*
+.search-bar {
+  position: relative;
+  z-index: 2;
+}
+
+.search-bar input {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.student-results {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.student-name {
+  cursor: pointer;
+  padding: 5px;
+  margin: 2px 0;
+}
+
+.student-name:hover {
+  background-color: #f0f0f0;
+}
+*/
