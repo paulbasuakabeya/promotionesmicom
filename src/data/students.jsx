@@ -132,6 +132,14 @@ const studentsData = [
    email: 'marie.curie@example.com',
    phone: '0987654321',
    cover: promotion
+ },
+ {
+   id: 16,
+   name: 'Diervie BIETETO EFAMBE',
+   photo: 'promotion',
+   email: 'diervieefambe@gmail.com',
+   phone: '+243893280742',
+   cover: promotion
  }
 ];
 
