@@ -6,6 +6,7 @@ import ngwala from '../assets/ngwala.jpg'
 import perle from '../assets/perle.jpg'
 import kileba from '../assets/kileba.jpg'
 import bilombi from '../assets/bilombi.jpg'
+import lumu from '../assets/lumu.png'
 import promotion from '../assets/promotion.jpg'
 
 const studentsData = [
@@ -37,10 +38,10 @@ const studentsData = [
  {
    id: 4,
    name: 'Jonathan LUMU TSHISENSE',
-   photo: 'esmicom',
+   photo: 'lumu',
    email: 'marie.curie@example.com',
    phone: '0987654321',
-   cover: esmicom
+   cover: lumu
  },
  {
    id: 5,
