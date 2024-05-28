@@ -4,6 +4,7 @@ import kabeya from '../assets/kabeya.jpg'
 import kasonga from '../assets/kasonga.jpg'
 import ngwala from '../assets/ngwala.jpg'
 import perle from '../assets/perle.jpg'
+import kileba from '../assets/kileba.jpg'
 import promotion from '../assets/promotion.jpg'
 
 const studentsData = [
@@ -69,8 +70,8 @@ const studentsData = [
    id: 8,
    name: 'Gregoire MULAMBA MULAMBA',
    photo: 'esmicom',
-   email: 'marie.curie@example.com',
-   phone: '0987654321',
+   email: 'gregoiremulamba2014@gmail.com',
+   phone: '+243821364212',
    cover: esmicom
  },
  {
@@ -108,10 +109,10 @@ const studentsData = [
  {
    id: 13,
    name: 'Grace KILEBA',
-   photo: 'esmicom',
+   photo: 'kileba',
    email: 'Gracekileba@gmail.com',
    phone: '0892743700',
-   cover: esmicom
+   cover: kileba
  },
  {
    id: 14,
