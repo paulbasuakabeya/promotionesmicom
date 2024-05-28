@@ -17,7 +17,7 @@ const studentsData = [
  },
  {
    id: 2,
-   name: 'Arcel Kabuya Tshisuaka',
+   name: 'Arcel KABUYA TSHISUAKA',
    photo: 'promotion',
    email: 'marie.curie@example.com',
    phone: '0987654321',
@@ -26,7 +26,7 @@ const studentsData = [
  ,
  {
    id: 3,
-   name: 'Richard Iwonge Yala',
+   name: 'Richard IWONGI YALA',
    photo: 'iwonge',
    email: 'marie.curie@example.com',
    phone: '0987654321',
@@ -34,7 +34,7 @@ const studentsData = [
  },
  {
    id: 4,
-   name: 'Jonathan Lumu Tshisense',
+   name: 'Jonathan LUMU TSHISENSE',
    photo: 'esmicom',
    email: 'marie.curie@example.com',
    phone: '0987654321',
@@ -42,7 +42,7 @@ const studentsData = [
  },
  {
    id: 5,
-   name: 'Tshinza Kasonga',
+   name: 'Chiko TSHIUNZA KASONGA',
    photo: 'kasonga',
    cover:kasonga,
    email: 'marie.curie@example.com',
@@ -51,7 +51,7 @@ const studentsData = [
  },
  {
    id: 6,
-   name: 'Ngwala Jackson',
+   name: 'Wonder Ngwala Jackson',
    photo: 'ngwala',
    email: 'marie.curie@example.com',
    phone: '0987654321',
@@ -59,7 +59,7 @@ const studentsData = [
  },
  {
    id: 7,
-   name: 'Perle Kapila',
+   name: 'Perle KAPINGA',
    photo: 'perle',
    email: 'marie.curie@example.com',
    phone: '0987654321',
