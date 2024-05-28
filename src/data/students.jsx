@@ -10,6 +10,7 @@ import lumu from '../assets/lumu.png'
 import tshimini from '../assets/tshimini.jpg'
 import mulamba from '../assets/mulamba.jpg'
 import efambe from '../assets/efambe.jpg'
+import muyombi from '../assets/muyombi.jpg'
 import promotion from '../assets/promotion.jpg'
 
 const studentsData = [
@@ -153,11 +154,11 @@ const studentsData = [
  },
  {
    id: 18,
-   name: 'jephte MUYOMBI KWAKWA',
-   photo: 'promotion',
+   name: 'Jephte MUYOMBI KWAKWA',
+   photo: 'muyombi',
    email: 'jephtemuyombi@gmail.com',
    phone: '+243892459728',
-   cover: promotion
+   cover: muyombi
  }
 ];
 
