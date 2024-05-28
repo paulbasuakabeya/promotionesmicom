@@ -56,10 +56,10 @@ const studentsData = [
  },
  {
    id: 6,
-   name: 'Wonder Ngwala Jackson',
+   name: 'Merveil NGUALA BILONGO',
    photo: 'ngwala',
-   email: 'marie.curie@example.com',
-   phone: '0987654321',
+   email: 'ngualawonder@gmail.com',
+   phone: '+243893003939/978186147',
    cover: ngwala
  },
  {
@@ -141,6 +141,22 @@ const studentsData = [
    email: 'diervieefambe@gmail.com',
    phone: '+243893280742',
    cover: efambe
+ },
+ {
+   id: 17,
+   name: 'Diumi MASSAMBA MAFUTA',
+   photo: 'promotion',
+   email: 'dieumimassamba97@gmail.com',
+   phone: '+243821616157',
+   cover: promotion
+ },
+ {
+   id: 18,
+   name: 'jephte MUYOMBI KWAKWA',
+   photo: 'promotion',
+   email: 'jephtemuyombi@gmail.com',
+   phone: '+243892459728',
+   cover: promotion
  }
 ];
 
