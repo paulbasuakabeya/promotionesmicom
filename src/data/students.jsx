@@ -11,8 +11,8 @@ const studentsData = [
    id: 1,
    name: 'Paul KABEYA BASUA',
    photo: 'kabeya',
-   email: 'jean.dupont@example.com',
-   phone: '0123456789',
+   email: 'paulbasuakabeya@gmail.com',
+   phone: '814961180/9947208',
    cover: kabeya
  },
  {
@@ -28,8 +28,8 @@ const studentsData = [
    id: 3,
    name: 'Richard IWONGI YALA',
    photo: 'iwonge',
-   email: 'marie.curie@example.com',
-   phone: '0987654321',
+   email: 'Iwongirichard@gmail.Com',
+   phone: '0812668631',
    cover: iwonge
  },
  {
@@ -42,7 +42,7 @@ const studentsData = [
  },
  {
    id: 5,
-   name: 'Chiko TSHIUNZA KASONGA',
+   name: 'Chico TSHIUNZA KASONGA',
    photo: 'kasonga',
    cover:kasonga,
    email: 'marie.curie@example.com',
@@ -64,6 +64,54 @@ const studentsData = [
    email: 'marie.curie@example.com',
    phone: '0987654321',
    cover: perle
+ },
+ {
+   id: 8,
+   name: 'Gregoire MULAMBA MULAMBA',
+   photo: 'esmicom',
+   email: 'marie.curie@example.com',
+   phone: '0987654321',
+   cover: esmicom
+ },
+ {
+   id: 9,
+   name: 'Aaron MABUNGU',
+   photo: 'esmicom',
+   email: 'aaronmabungu6@gmail.com',
+   phone: '+243 844584739',
+   cover: esmicom
+ },
+ {
+   id: 10,
+   name: 'Glody BILOMBI BILOMBI',
+   photo: 'esmicom',
+   email: 'marie.curie@example.com',
+   phone: '0987654321',
+   cover: esmicom
+ },
+ {
+   id: 11,
+   name: 'EBUMBAKI',
+   photo: 'esmicom',
+   email: 'marie.curie@example.com',
+   phone: '0987654321',
+   cover: esmicom
+ },
+ {
+   id: 12,
+   name: 'Pedro EYOMA',
+   photo: 'esmicom',
+   email: 'marie.curie@example.com',
+   phone: '0987654321',
+   cover: esmicom
+ },
+ {
+   id: 13,
+   name: 'Grace KILEBA',
+   photo: 'esmicom',
+   email: 'Gracekileba@gmail.com',
+   phone: '0892743700',
+   cover: esmicom
  }
 ];
 
