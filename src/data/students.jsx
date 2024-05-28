@@ -124,6 +124,14 @@ const studentsData = [
    email: 'tahimislouison@gmail.Com',
    phone: '+243894705787',
    cover: tshimini
+ },
+ {
+   id: 15,
+   name: 'Guylutte LUKOMBO',
+   photo: 'promotion',
+   email: 'marie.curie@example.com',
+   phone: '0987654321',
+   cover: promotion
  }
 ];
 
