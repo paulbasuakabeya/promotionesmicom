@@ -8,6 +8,7 @@ import kileba from '../assets/kileba.jpg'
 import bilombi from '../assets/bilombi.jpg'
 import lumu from '../assets/lumu.png'
 import tshimini from '../assets/tshimini.jpg'
+import mulamba from '../assets/mulamba.jpg'
 import efambe from '../assets/efambe.jpg'
 import promotion from '../assets/promotion.jpg'
 
@@ -73,10 +74,10 @@ const studentsData = [
  {
    id: 8,
    name: 'Gregoire MULAMBA MULAMBA',
-   photo: 'esmicom',
+   photo: 'mulamba',
    email: 'gregoiremulamba2014@gmail.com',
    phone: '+243821364212',
-   cover: esmicom
+   cover: mulamba
  },
  {
    id: 9,
