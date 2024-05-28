@@ -112,6 +112,14 @@ const studentsData = [
    email: 'Gracekileba@gmail.com',
    phone: '0892743700',
    cover: esmicom
+ },
+ {
+   id: 14,
+   name: 'Louison TSHIMINI KABEMBA',
+   photo: 'esmicom',
+   email: 'tahimislouison@gmail.Com',
+   phone: '+243894705787',
+   cover: esmicom
  }
 ];
 
