@@ -7,6 +7,7 @@ import perle from '../assets/perle.jpg'
 import kileba from '../assets/kileba.jpg'
 import bilombi from '../assets/bilombi.jpg'
 import lumu from '../assets/lumu.png'
+import tshimini from '../assets/tshimini.jpg'
 import promotion from '../assets/promotion.jpg'
 
 const studentsData = [
@@ -119,10 +120,10 @@ const studentsData = [
  {
    id: 14,
    name: 'Louison TSHIMINI KABEMBA',
-   photo: 'esmicom',
+   photo: 'tshimini',
    email: 'tahimislouison@gmail.Com',
    phone: '+243894705787',
-   cover: esmicom
+   cover: tshimini
  }
 ];
 
