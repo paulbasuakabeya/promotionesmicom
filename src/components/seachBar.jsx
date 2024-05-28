@@ -24,7 +24,7 @@ const SearchBar = ({ students, onStudentSelect }) => {
           {filteredStudents.map((student) => (
             <div
               key={student.id}
-              className="student-name"
+              className="student-name cursor-pointer p-2 hover:bg-gray-200"
               onClick={() => onStudentSelect(student)}
             >
               {student.name}
