@@ -83,10 +83,10 @@ const studentsData = [
  },
  {
    id: 10,
-   name: 'Glody BILOMBI BILOMBI',
+   name: 'Glory BILOMBI LUHANGU',
    photo: 'esmicom',
-   email: 'marie.curie@example.com',
-   phone: '0987654321',
+   email: 'glorybilombi2023@gmail.com',
+   phone: '+243820968879',
    cover: esmicom
  },
  {
