@@ -8,6 +8,7 @@ import kileba from '../assets/kileba.jpg'
 import bilombi from '../assets/bilombi.jpg'
 import lumu from '../assets/lumu.png'
 import tshimini from '../assets/tshimini.jpg'
+import efambe from '../assets/efambe.jpg'
 import promotion from '../assets/promotion.jpg'
 
 const studentsData = [
@@ -136,10 +137,10 @@ const studentsData = [
  {
    id: 16,
    name: 'Diervie BIETETO EFAMBE',
-   photo: 'promotion',
+   photo: 'efambe',
    email: 'diervieefambe@gmail.com',
    phone: '+243893280742',
-   cover: promotion
+   cover: efambe
  }
 ];
 
