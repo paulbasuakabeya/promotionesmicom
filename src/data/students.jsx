@@ -5,6 +5,7 @@ import kasonga from '../assets/kasonga.jpg'
 import ngwala from '../assets/ngwala.jpg'
 import perle from '../assets/perle.jpg'
 import kileba from '../assets/kileba.jpg'
+import bilombi from '../assets/bilombi.jpg'
 import promotion from '../assets/promotion.jpg'
 
 const studentsData = [
@@ -85,10 +86,10 @@ const studentsData = [
  {
    id: 10,
    name: 'Glory BILOMBI LUHANGU',
-   photo: 'esmicom',
+   photo: 'bilombi',
    email: 'glorybilombi2023@gmail.com',
    phone: '+243820968879',
-   cover: esmicom
+   cover: bilombi
  },
  {
    id: 11,
