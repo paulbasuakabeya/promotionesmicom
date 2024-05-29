@@ -7,7 +7,7 @@
  position: relative;
 }
 
-.border-animated {
+/*.border-animated {
  width: 80%;
  height: 80%;
  position: absolute;
@@ -23,7 +23,7 @@
  to {
    transform: rotate(360deg);
  }
-}
+}*/
 
 .search-bar {
  position: relative;
@@ -61,3 +61,33 @@
  height: auto;
 }
 
+
+
+
+.search-bar {
+  width: 300px; /* Ajustez en fonction de vos besoins */
+}
+
+.search-input {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.student-results {
+  max-height: 80px; /* Limite de hauteur pour le menu déroulant */
+  overflow-y: hidden; /* Pas de défilement par défaut */
+}
+
+.student-results.scrollable {
+  overflow-y: auto; /* Activer le défilement lorsque nécessaire */
+}
+
+.student-name {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.student-name:hover {
+  background-color: #f0f0f0;
+}

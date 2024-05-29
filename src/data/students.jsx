@@ -11,6 +11,7 @@ import tshimini from '../assets/tshimini.jpg'
 import mulamba from '../assets/mulamba.jpg'
 import efambe from '../assets/efambe.jpg'
 import muyombi from '../assets/muyombi.jpg'
+import kabamba from '../assets/kabamba.jpg'
 import promotion from '../assets/promotion.jpg'
 
 const studentsData = [
@@ -106,10 +107,10 @@ const studentsData = [
  },
  {
    id: 12,
-   name: 'Pedro EYOMA',
+   name: 'Pierre EYOMA MALONGA',
    photo: 'esmicom',
-   email: 'marie.curie@example.com',
-   phone: '0987654321',
+   email: 'mangolepierre3@gmail.com',
+   phone: ' 0971728643',
    cover: esmicom
  },
  {
@@ -159,6 +160,14 @@ const studentsData = [
    email: 'jephtemuyombi@gmail.com',
    phone: '+243892459728',
    cover: muyombi
+ },
+ {
+   id: 19,
+   name: 'Ezéchiel KABAMBA wa KAWBAMBA',
+   photo: 'kabamba',
+   email: 'kzeroberto@yahoo.fr',
+   phone: '+243897657169',
+   cover: kabamba
  }
 ];
 
